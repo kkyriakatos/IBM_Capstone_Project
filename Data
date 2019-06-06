@@ -1,0 +1,20 @@
+DATA SOURCES FOR THE PROJECT
+	
+	In our research for assisting John Doe with his search for the optimal spot to establish his Vegan Restaurant, 
+	we will have to retrieve data from publicly available data sources, such as Wikipedia, Open Street Map APIs, Foursquare.
+	
+	More specifically we will have to retrieve:
+	
+	
+	- Information about the municipalities and communities in Athens from Wikipedia: https://en.wikipedia.org/wiki/Athens_Prefecture
+	
+	- The coordinates (latitude, longitude) ot these municipalities in Athens from Open Street Map APIs
+	
+	- From Foursquare we will need following venues data:
+	  - the vegan restaurants venues of the municipalities
+	  - information about the restaurant types in Athens
+	  - the offices venues of the municipalities
+	  - malls, business centers of the municipalities
+	  - the university’s campus venues of the municipalities
+	
+	We will then leverage the data in order to determine which spot is the most suitable in order to build a Vegan Restaurant. 
